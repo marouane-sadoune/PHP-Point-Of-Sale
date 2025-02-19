@@ -11,6 +11,6 @@ PHP POS tool can Boost efficiency with smart automation, oversee sales or stock 
 5. Modify application/config/database.php to connect to your database
 6. Go to your point of sale install via the browser
 7. LOGIN using
-username: `admin`
-password: `pointofsale`
+    - username: `admin`
+    - password: `pointofsale`
 8. Enjoy
